@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imls_public_libraries_survey/static/css/main.e6c13ad2.css",
+    "main.js": "/imls_public_libraries_survey/static/js/main.5735c107.js",
+    "static/js/453.31ee9c60.chunk.js": "/imls_public_libraries_survey/static/js/453.31ee9c60.chunk.js",
+    "index.html": "/imls_public_libraries_survey/index.html",
+    "main.e6c13ad2.css.map": "/imls_public_libraries_survey/static/css/main.e6c13ad2.css.map",
+    "main.5735c107.js.map": "/imls_public_libraries_survey/static/js/main.5735c107.js.map",
+    "453.31ee9c60.chunk.js.map": "/imls_public_libraries_survey/static/js/453.31ee9c60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5735c107.js"
+  ]
+}
